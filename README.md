@@ -10,6 +10,10 @@ https://www.java.com/en/download/
 
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
+juhul kui eelnevalt aadressilt allalaadimisel küsib Oracle kasutaja olemasolu siis proovida järgmist:
+
+https://www.oracle.com/technetwork/java/javase/downloads/index.html ja otsida **Java SE 8u231** JDK download nupp
+
 **Süsteemimuutujate lisamine:**
 
 https://javatutorial.net/set-java-home-windows-10
