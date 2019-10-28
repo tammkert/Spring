@@ -37,7 +37,7 @@ https://javatutorial.net/set-java-home-windows-10
       Spring Security
       JDBC API
 
-Generate project -> paki lahti -> navigeeri cd käsuga vastavasse asukohta kuhu projekt on paigutatud -> käivita Java IDE's või CMD's käsuga: **gradlew bootRun**
+Generate project -> paki lahti -> käivita Java IDE's või CMD's käsuga: **gradlew bootRun**
 
 **NB! CMD käivitada admin õigustega.**
 
