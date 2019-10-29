@@ -3,9 +3,10 @@
 Vajalik on Java ja JDK (Java Development Kit) olemasolu. Springiga ühilduvad versioonid on: **8, 11, 13**
 
 **Eclipse allalaadimine**
+
 https://www.eclipse.org/downloads/
 
-**Java allalaadimine:**
+**Java allalaadimine:** 
 
 https://www.java.com/en/download/
 
