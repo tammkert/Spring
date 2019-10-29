@@ -51,5 +51,9 @@ Generate project -> paki lahti -> käivita Java IDE's või CMD's käsuga: **grad
 
 Brauseris avada aadressilt: **http://localhost:8080**
 
+Juhul kui pordiga 8080 esineb probleeme, siis tuleb ära muuta default localhost aadress, mille õpetuse leiab:
+
+https://www.baeldung.com/spring-boot-change-port
+
 Spring Security ja JDBC API soovitatavalt alguses build.gradle failist välja kommenteerida // või lisada hiljem
 
